@@ -1,0 +1,9 @@
+use_lora = True
+train_score_weight = False
+batch_size = 4
+learning_rate = 1e-5
+padding_len = 800
+rank = 8
+alpha = 1
+min_freq = 5
+train_gpt2 = True
